@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\ConsoleApplication1.cpp(179,14): warning C4101: 'search1': unreferenced local variable
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\ConsoleApplication1.cpp(177,6): warning C4101: 'refNo': unreferenced local variable
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\ConsoleApplication1.cpp(177,70): warning C4101: 'cuRef': unreferenced local variable
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\ConsoleApplication1.cpp(476,6): warning C4101: 'meal1': unreferenced local variable
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\ConsoleApplication1.cpp(476,13): warning C4101: 'mealprice1': unreferenced local variable
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\ConsoleApplication1.cpp(476,24): warning C4101: 'cuRef1': unreferenced local variable
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\Meal.h(164): warning C4715: 'MealRegistration::recognizingMealPrice': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\x64\Debug\ConsoleApplication1.exe

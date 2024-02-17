@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\r\Hotel Management System\x64\Debug\ConsoleApplication1.exe
+I:\Hotel_Management_System\Hotel Management System\x64\Debug\ConsoleApplication1.exe
+F:\Hotel_Management_System\Hotel Management System\x64\Debug\ConsoleApplication1.exe
+D:\New Volume\Drive (G)\UOR\3rd Semester\EE3302 Data Structures and Algorithms\Hotel_Management_System\Hotel Management System\x64\Debug\ConsoleApplication1.exe
+D:\New Volume\Drive (G)\UOR\6th Semester\Intern\Projects\3rd sem\Hotel_Management_System\Hotel Management System\x64\Debug\ConsoleApplication1.exe
