@@ -35,8 +35,7 @@ In ConsoleApplication1.cpp, you'll find four initial four sets of usernames and 
 ### (1) Clone the repository
 
 ```
-git clone https://github.com/KalangiJayakody/Hotel-Management-System-Data-Strusturess.git
-
+git clone https://github.com/KalangiJayakody/Hotel-Management-System-Data-Structures.git
 ```
 
 
